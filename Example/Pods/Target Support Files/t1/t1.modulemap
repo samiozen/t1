@@ -1,0 +1,6 @@
+framework module t1 {
+  umbrella header "t1-umbrella.h"
+
+  export *
+  module * { export * }
+}
